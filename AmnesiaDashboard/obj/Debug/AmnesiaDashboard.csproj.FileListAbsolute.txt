@@ -1,0 +1,33 @@
+c:\users\matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.mainWindow.resources
+c:\users\matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.csproj.GenerateResource.Cache
+C:\Users\Matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.About.resources
+C:\Users\Matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.exe.config
+C:\Users\Matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.pdb
+C:\Users\Matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.pdb
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.LEditOptions.resources
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.exe.config
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.exe
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.pdb
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.csprojResolveAssemblyReference.cache
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.About.resources
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.LEditOptions.resources
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.MainWindow.resources
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.Properties.Resources.resources
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.csproj.GenerateResource.Cache
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.exe
+C:\Users\MattBrewerton\OneDrive\Programming Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.pdb
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.exe.config
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.exe
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.pdb
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.exe
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\bin\Debug\AmnesiaDashboard.pdb
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.csprojResolveAssemblyReference.cache
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.About.resources
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.LEditOptions.resources
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.MainWindow.resources
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.Properties.Resources.resources
+C:\Projects\AmnesiaDashboard\AmnesiaDashboard\obj\Debug\AmnesiaDashboard.csproj.GenerateResource.Cache
